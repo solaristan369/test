@@ -1,3 +1,1 @@
-# H
-# Boy
 # Hello
